@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://ruta-a-tu-foto-de-perfil.jpg" width="150px" alt="Foto de perfil de José Luis Lara">
+  <img src="foto1.png" width="250px" alt="Foto de perfil de José Luis Lara">
   <h1>¡Hola, soy José Luis Lara! 👋</h1>
 </div>
 
