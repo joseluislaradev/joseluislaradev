@@ -1,3 +1,6 @@
+<div align="center">
+  <h1>¡Hola, soy José Luis Lara! 👋</h1>
+</div>
 
 <p align="center">
   Soy un Ingeniero de Software al que le apasiona genuinamente todo el ciclo de vida del desarrollo. Disfruto el reto de transformar una idea en una solución de software que sea eficiente y, sobre todo, funcional.
